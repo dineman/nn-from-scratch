@@ -1,0 +1,9 @@
+name: mlpcnn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - pytest
+  - pytorch   # Part C and the NumPy-vs-PyTorch tests (CPU build is enough; MPS is used if available)

@@ -1,0 +1,9 @@
+[project]
+name = "mlp-cnn-from-scratch"
+version = "0.1.0"
+description = "MLP and CNN with manual backprop in NumPy, rebuilt in PyTorch, plus controlled experiments on training tricks"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

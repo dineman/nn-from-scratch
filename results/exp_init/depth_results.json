@@ -1,0 +1,236 @@
+[
+ {
+  "depth": 10,
+  "scheme": "xavier",
+  "seed": 0,
+  "val_acc": [
+   0.943,
+   0.9604,
+   0.957
+  ],
+  "diverged": false,
+  "logit_std": 0.047424882650375366,
+  "grad_norm_layer1": 0.06571442633867264
+ },
+ {
+  "depth": 10,
+  "scheme": "xavier",
+  "seed": 1,
+  "val_acc": [
+   0.9452,
+   0.9594,
+   0.9652
+  ],
+  "diverged": false,
+  "logit_std": 0.04386380687355995,
+  "grad_norm_layer1": 0.07295876741409302
+ },
+ {
+  "depth": 10,
+  "scheme": "xavier",
+  "seed": 2,
+  "val_acc": [
+   0.9444,
+   0.9546,
+   0.9642
+  ],
+  "diverged": false,
+  "logit_std": 0.0463605597615242,
+  "grad_norm_layer1": 0.0846342220902443
+ },
+ {
+  "depth": 10,
+  "scheme": "he",
+  "seed": 0,
+  "val_acc": [
+   0.9464,
+   0.9608,
+   0.9674
+  ],
+  "diverged": false,
+  "logit_std": 1.2598553895950317,
+  "grad_norm_layer1": 2.652106761932373
+ },
+ {
+  "depth": 10,
+  "scheme": "he",
+  "seed": 1,
+  "val_acc": [
+   0.9436,
+   0.9622,
+   0.9588
+  ],
+  "diverged": false,
+  "logit_std": 1.1652544736862183,
+  "grad_norm_layer1": 3.30206561088562
+ },
+ {
+  "depth": 10,
+  "scheme": "he",
+  "seed": 2,
+  "val_acc": [
+   0.9486,
+   0.9544,
+   0.9628
+  ],
+  "diverged": false,
+  "logit_std": 1.231581211090088,
+  "grad_norm_layer1": 2.91603422164917
+ },
+ {
+  "depth": 20,
+  "scheme": "xavier",
+  "seed": 0,
+  "val_acc": [
+   0.8274,
+   0.929,
+   0.9524
+  ],
+  "diverged": false,
+  "logit_std": 0.0017881341045722365,
+  "grad_norm_layer1": 0.0026207356713712215
+ },
+ {
+  "depth": 20,
+  "scheme": "xavier",
+  "seed": 1,
+  "val_acc": [
+   0.885,
+   0.9342,
+   0.9582
+  ],
+  "diverged": false,
+  "logit_std": 0.0009945242200046778,
+  "grad_norm_layer1": 0.002200026297941804
+ },
+ {
+  "depth": 20,
+  "scheme": "xavier",
+  "seed": 2,
+  "val_acc": [
+   0.6856,
+   0.8754,
+   0.9456
+  ],
+  "diverged": false,
+  "logit_std": 0.00135910848621279,
+  "grad_norm_layer1": 0.0017142844153568149
+ },
+ {
+  "depth": 20,
+  "scheme": "he",
+  "seed": 0,
+  "val_acc": [
+   0.9454,
+   0.9554,
+   0.9588
+  ],
+  "diverged": false,
+  "logit_std": 1.5200726985931396,
+  "grad_norm_layer1": 3.047480583190918
+ },
+ {
+  "depth": 20,
+  "scheme": "he",
+  "seed": 1,
+  "val_acc": [
+   0.9418,
+   0.9548,
+   0.952
+  ],
+  "diverged": false,
+  "logit_std": 0.8454338312149048,
+  "grad_norm_layer1": 1.987795114517212
+ },
+ {
+  "depth": 20,
+  "scheme": "he",
+  "seed": 2,
+  "val_acc": [
+   0.9226,
+   0.9472,
+   0.959
+  ],
+  "diverged": false,
+  "logit_std": 1.1553630828857422,
+  "grad_norm_layer1": 2.216407299041748
+ },
+ {
+  "depth": 30,
+  "scheme": "xavier",
+  "seed": 0,
+  "val_acc": [
+   0.1106,
+   0.449,
+   0.7622
+  ],
+  "diverged": false,
+  "logit_std": 3.3355729101458564e-05,
+  "grad_norm_layer1": 5.1358179916860536e-05
+ },
+ {
+  "depth": 30,
+  "scheme": "xavier",
+  "seed": 1,
+  "val_acc": [
+   0.1106,
+   0.2756,
+   0.666
+  ],
+  "diverged": false,
+  "logit_std": 6.831978680565953e-05,
+  "grad_norm_layer1": 7.705672760494053e-05
+ },
+ {
+  "depth": 30,
+  "scheme": "xavier",
+  "seed": 2,
+  "val_acc": [
+   0.1106,
+   0.6322,
+   0.708
+  ],
+  "diverged": false,
+  "logit_std": 6.859734276076779e-05,
+  "grad_norm_layer1": 8.206188067561015e-05
+ },
+ {
+  "depth": 30,
+  "scheme": "he",
+  "seed": 0,
+  "val_acc": [
+   0.9244,
+   0.945,
+   0.9592
+  ],
+  "diverged": false,
+  "logit_std": 0.9073705673217773,
+  "grad_norm_layer1": 1.6994518041610718
+ },
+ {
+  "depth": 30,
+  "scheme": "he",
+  "seed": 1,
+  "val_acc": [
+   0.9056,
+   0.9328,
+   0.952
+  ],
+  "diverged": false,
+  "logit_std": 1.8584920167922974,
+  "grad_norm_layer1": 3.6517887115478516
+ },
+ {
+  "depth": 30,
+  "scheme": "he",
+  "seed": 2,
+  "val_acc": [
+   0.6402,
+   0.8716,
+   0.8946
+  ],
+  "diverged": false,
+  "logit_std": 1.8660427331924438,
+  "grad_norm_layer1": 7.092138767242432
+ }
+]

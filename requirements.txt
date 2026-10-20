@@ -1,0 +1,4 @@
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7
+torch>=2.0        # Part C and the NumPy-vs-PyTorch tests; CPU build is enough
